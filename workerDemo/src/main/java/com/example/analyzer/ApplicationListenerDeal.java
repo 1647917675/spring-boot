@@ -3,6 +3,14 @@ package com.example.analyzer;
 import org.springframework.context.ApplicationListener;
 import org.springframework.context.event.ContextStartedEvent;
 
+
+/**
+ * 
+ * 
+ * this is for listener ContextStartEvent
+ * @author lw
+ *
+ */
 public class ApplicationListenerDeal implements ApplicationListener<ContextStartedEvent> {
 
 	@Override

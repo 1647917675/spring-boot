@@ -1,5 +1,0 @@
-
-#SpringApplicationRunListener
-org.springframework.boot.SpringApplicationRunListener=com.example.analyzer.ApplicationRunListenerDeal
-#ApplicationListener
-org.springframework.context.ApplicationListener=com.example.application.listener.ApplicationListenerTest

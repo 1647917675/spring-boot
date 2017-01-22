@@ -22,4 +22,8 @@ public class ApplicationListenerDeal implements ApplicationListener<ContextStart
 		System.out.println("applistenenr is for the applicationListener !");
 	}
 
+	
+	public void sayWords(String words){
+		System.out.println(words);
+	}
 }

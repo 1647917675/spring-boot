@@ -8,9 +8,23 @@ import org.springframework.context.annotation.Bean;
 import com.example.analyzer.ApplicationListenerDeal;
 import com.mongodb.DBCollection;
 
+
+/**
+ * 
+ * @author lw
+ *
+ */
 @EnableAutoConfiguration
 @SpringBootApplication
 public class DemoApplication {
+	
+	/**
+	 * xiaoxuan is legend of the magic note
+	 * @return
+	 */
+	@Bean public String getCondition(){
+		return "Nothing";
+	}         
 	
 	@Bean  public Object getBean(){
 		return new Object();

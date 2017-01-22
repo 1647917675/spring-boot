@@ -11,6 +11,8 @@ import org.springframework.web.context.support.ServletRequestHandledEvent;
 /**
  * 
  * this is for test
+ * 
+ * java savbkasvblksdvhsdvbsldh
  * @author lw
  *
  */
@@ -31,7 +33,12 @@ public class ApplicationListenerTest implements
 		System.out.println("ApplicationListenerTest.onApplicationEvent()"+
 				ToStringBuilder.reflectionToString(event));
 		
+		System.out.println("tests for fixed ");
 //		
+		
+		System.out.println("this is for master brance");
+		
+		
 //		if (event instanceof EmbeddedServletContainerInitializedEvent) {
 //			EmbeddedServletContainerInitializedEvent servletContainerInitializedEvent = (EmbeddedServletContainerInitializedEvent) event;
 //

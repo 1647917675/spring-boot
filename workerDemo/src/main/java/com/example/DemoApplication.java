@@ -8,6 +8,12 @@ import org.springframework.context.annotation.Bean;
 import com.example.analyzer.ApplicationListenerDeal;
 import com.mongodb.DBCollection;
 
+
+/**
+ * 
+ * @author lw
+ *
+ */
 @EnableAutoConfiguration
 @SpringBootApplication
 public class DemoApplication {

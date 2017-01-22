@@ -12,7 +12,7 @@ import org.springframework.web.context.support.ServletRequestHandledEvent;
  * 
  * this is for test
  * 
- * java savbkasvblksdvhsdvbsldh
+ * 
  * @author lw
  *
  */
